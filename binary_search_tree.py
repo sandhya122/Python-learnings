@@ -1,3 +1,6 @@
+
+# Program to check whether given tree is BST or not
+
 class checkBST:
     def __init__(self, nodevalue):
         self.data =  nodevalue
